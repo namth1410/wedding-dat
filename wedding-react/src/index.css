@@ -1,0 +1,23 @@
+/* Reset default Vite styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: block;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}

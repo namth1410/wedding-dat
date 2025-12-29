@@ -1283,7 +1283,7 @@ main {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("/haohan2.jpeg");
+  background-image: url("/haohan2.webp");
   background-size: cover;
   background-position: center;
   filter: blur(1px) brightness(0.9);

@@ -95,7 +95,7 @@ const PhotoAlbum = () => {
               <div className="cover-ornament">❀</div>
               <h3>Wedding Album</h3>
               <p className="cover-names">Đạt & Liên</p>
-              <p className="cover-date">03 . 01 . 2026</p>
+              <p className="cover-date">04 . 01 . 2026</p>
               <div className="cover-ornament">❀</div>
             </div>
           </div>
@@ -1412,7 +1412,7 @@ function App() {
     minutes: 0,
     seconds: 0,
   });
-  const weddingDate = new Date("2026-01-03T10:00:00");
+  const weddingDate = new Date("2026-01-04T10:00:00");
 
   useEffect(() => {
     // Scroll to top on mount
@@ -1555,7 +1555,7 @@ function App() {
               <span className="name bride">Nguyễn Liên</span>
             </motion.h1>
             <motion.div className="hero-date" variants={fadeInUp}>
-              <span>03</span>
+              <span>04</span>
               <span className="separator">.</span>
               <span>01</span>
               <span className="separator">.</span>
@@ -1760,7 +1760,7 @@ function App() {
               Tiến Đạt & Nguyễn Liên
             </motion.p>
             <motion.div className="final-date-box" variants={scaleIn}>
-              <span>03</span>
+              <span>04</span>
               <span className="separator">•</span>
               <span>01</span>
               <span className="separator">•</span>
